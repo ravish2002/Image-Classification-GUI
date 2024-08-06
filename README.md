@@ -25,19 +25,4 @@ An Image Classification Graphical User Interface based on python programming lan
 5) NumPy
 6) MatplotLib
 
-## Setup Instructions
-1) Clone the repository
-```python
-$ git clone https://github.com/rahulch02/Image-Classification-GUI.git
-$ cd Image-Classification-GUI
-```
 
-2) Install the dependencies
-#####  For Python
-```bash
-$ pip install -r requirements.txt
-```
-
-## Testing on examples
-1) Click on upload image, upload an image of your choice, or choose any of the test images already provided.
-2) Click the classify button and ENJOY!!!
